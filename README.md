@@ -1,5 +1,6 @@
 # Nike Global Sales Analysis Dashboard 
 <img width="1050" height="550" alt="Image" src="https://github.com/user-attachments/assets/ce189719-b23a-4e23-be07-531795766b4f" />
+
 ## Project Overview
 This project analyzes **Nike Inc.'s global sales performance** from **2011 to 2016** across multiple international markets.
 
