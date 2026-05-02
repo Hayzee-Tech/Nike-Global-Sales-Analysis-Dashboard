@@ -1,5 +1,5 @@
 # Nike Global Sales Analysis Dashboard 
-
+<img width="1050" height="550" alt="Image" src="https://github.com/user-attachments/assets/ce189719-b23a-4e23-be07-531795766b4f" />
 ## Project Overview
 This project analyzes **Nike Inc.'s global sales performance** from **2011 to 2016** across multiple international markets.
 
@@ -115,10 +115,7 @@ Nike Inc. Sales Performance Analytics Project (2011–2016).
 > - `Total Cost = Quantity x Cost`
 > - `Profit = Revenue - Total Cost`
 
-
-
 ---
-
 ## Data Preparation & Transformation
 Data cleaning and transformation were completed in **Power Query Editor**.
 
@@ -164,7 +161,7 @@ stakeholders with actionable business insights at a glance.
 - **Donut Chart** — Total cost share by country
 - **Slicers** — Filter by Quarter (Q1–Q4) and Year (2011–2016)
 
-  <img width="969" height="537" alt="Image" src="https://github.com/user-attachments/assets/7eb97e00-4d7c-49a4-b62d-8fdecf1e299d" />
+<img width="745" height="109" alt="Image" src="https://github.com/user-attachments/assets/b583cc28-4fe6-47da-a54f-0c666a4fd9a8" />
   
   ---
   ## Key Insights
@@ -223,13 +220,7 @@ A mild dip was observed in **October and November**, before a strong
 a profit pattern characterized by **consistent mid-year margins, a
 September peak, and a strong year-end finish**.
 
-##  Country's Revenue
 
-### Revenue Distribution by Country (2011–2016)
-
-## 🌍 Country's Revenue
-
-### Revenue Distribution by Country (2011–2016)
 ##  Country's Revenue
 
 ### Revenue Distribution by Country (2011–2016)
@@ -247,41 +238,7 @@ September peak, and a strong year-end finish**.
 | 5 | United Kingdom | $222,505 |
 | 6 | United States | $194,255 |
 
-> **Key Insight:** **France** leads all markets with the highest revenue,
-> followed closely by **Canada** and **Germany**. The **United States**
-> trails as the lowest-performing market despite being a core territory —
-> signaling a clear opportunity for targeted growth and strategic
-> investment in the US market.
-
-### Country Revenue Breakdown
-
-| # | Country | Total Revenue |
-|---|---------|---------------|
-| 1 | France | $289,620 |
-| 2 | Canada | $265,875 |
-| 3 | Germany | $248,400 |
-| 4 | Australia | $243,645 |
-| 5 | United Kingdom | $222,505 |
-| 6 | United States | $194,255 |
-
-> **Key Insight:** **France** leads all markets with the highest revenue,
-> followed closely by **Canada** and **Germany**. The **United States**
-> trails as the lowest-performing market despite being a core territory —
-> signaling a clear opportunity for targeted growth and strategic
-> investment in the US market.
-
-### Country Revenue Breakdown
-
-| # | Country | Total Revenue |
-|---|---------|---------------|
-| 1 | France | $289,620 |
-| 2 | Canada | $265,875 |
-| 3 | Germany | $248,400 |
-| 4 | Australia | $243,645 |
-| 5 | United Kingdom | $222,505 |
-| 6 | United States | $194,255 |
-
-France** leads all markets with the highest revenue, followed closely by **Canada** and **Germany**. The **United States**trails as the lowest-performing market despite being a core territory signaling a clear opportunity for targeted growth and strategicinvestment in the US market.
+France** leads all markets with the highest revenue, followed closely by **Canada** and **Germany**. The **United States** trails as the lowest-performing market despite being a core territory  signaling a clear opportunity for targeted growth and strategic investment in the US market.
 
 ##  Total Revenue by Category
 
@@ -345,6 +302,40 @@ months consistently driving higher operational costs**.
 | 6 | United States | 13.16% |
 
 France** carries the highest cost share at **19.8%**,  consistent with its position as the top revenue-generating market. **United States** records the lowest cost share at **13.16%** — yet also generates the least revenue, suggesting the US market is underperforming relative to its cost efficiency. Markets like **Canada** and **Germany** show strong cost-to-revenue balance, making them the most operationally efficient territories in the portfolio.
+
+##  Recommendations
+
+Based on the six-year global sales analysis of Nike Inc. (2011–2016),
+the following recommendations are proposed for leadership consideration:
+
+1. **Invest Heavily in France and Canada** — Both markets lead revenue
+at **$289,620** and **$265,875** respectively. Leadership should increase
+sales support, rep incentives, and marketing spend in these two territories
+to protect and grow their position as the company's top revenue engines.
+
+2. **Develop a Targeted US Growth Strategy** — The United States generates
+the lowest revenue at **$194,255** despite carrying a **13.16%** cost share.
+A structured intervention including territory expansion, rep performance
+reviews, and localized pricing is needed to bring US revenue in line with
+its market potential.
+
+3. **Reduce Dependency on Bikes** — Bikes account for **89.7%** of total
+revenue, creating extreme product concentration risk. Leadership should
+invest in growing the **Clothing** and **Accessories** categories through
+targeted promotions, product bundling, and expanded product lines to build
+a more balanced and resilient revenue portfolio.
+
+4. **Capitalize on the Mid-Year Sales Window** — Revenue and profit
+consistently peak between **July and September**, with revenue exceeding
+**$150K** and profit approaching **$60K** in that window. Deploying
+focused campaigns, stock builds, and rep incentives ahead of this period
+could amplify peak performance and maximize margins.
+
+5. **Monitor and Control September Cost Spike** — While September delivers
+the highest revenue and profit, it also drives costs close to **$100K** —
+the highest of any month. A cost efficiency review targeting procurement,
+logistics, and operational spend during this peak period could significantly
+improve net profit margins without sacrificing revenue growth.
 
 
 ---
