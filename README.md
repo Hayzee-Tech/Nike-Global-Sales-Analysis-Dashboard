@@ -39,7 +39,7 @@ Leadership lacked centralized reporting and visibility into sales performance ac
 ---
 
 ## Business Objective
-Conduct a structured **6-year global sales analysis (2011–2016)** and develop a Power BI dashboard that enables leadership to:
+Conduct a structured **6 year global sales analysis (2011–2016)** and develop a Power BI dashboard that enables leadership to:
 
 - Monitor overall sales performance
 - Evaluate profitability trends
@@ -151,17 +151,201 @@ A dedicated **Calendar Table** was also created using DAX for time intelligence 
 - DAX
 - Excel
 
-  ## Data Visualization
-  
-  
+  ### Data Visualization
+ A single-page interactive **Power BI dashboard** was developed to provide
+stakeholders with actionable business insights at a glance.
 
----
+### Dashboard Features
+- **KPI Cards** — Total Cost, Total Profit, Year Cost Avg, Year Profit Avg
+- **Line Chart** — Revenue performance over time (monthly trend)
+- **Bar Chart** — Profit over time (monthly)
+- **Bar Chart** — Country revenue distribution
+- **Bar Chart** — Total revenue by product category
+- **Donut Chart** — Total cost share by country
+- **Slicers** — Filter by Quarter (Q1–Q4) and Year (2011–2016)
 
-## Key Insights
+  <img width="969" height="537" alt="Image" src="https://github.com/user-attachments/assets/7eb97e00-4d7c-49a4-b62d-8fdecf1e299d" />
+  
+  ---
+  ## Key Insights
 - Identified top-performing countries driving the highest revenue
 - Revealed underperforming sales markets requiring optimization
 - Highlighted best-performing product categories
 - Tracked multi-year sales growth and profitability trends
+
+  ##  Revenue Over Time
+
+### Monthly Revenue Trend (2011–2016)
+
+<img width="251" height="201" alt="Image" src="https://github.com/user-attachments/assets/4b7ac9bb-53f9-49a3-8968-fede7675059e" />
+
+### Sales Trend Insight
+
+Revenue performance fluctuated throughout the fiscal year with a notable
+dip in the early months, hovering around the **$100K** mark between
+**January and May**.
+
+A strong upward surge was recorded mid-year, with revenue peaking sharply
+between **July and September**, exceeding **$150K** — representing the
+strongest sales period across the fiscal year.
+
+A significant decline followed after the peak, with revenue dropping back
+toward the **$100K** range in **October and November**.
+
+A solid recovery was recorded in **December**, closing the year on an
+upward trajectory — suggesting a seasonal pattern characterized by
+**strong mid-year performance, a sharp post-peak correction, and a
+year-end recovery**.
+
+##  Profit Over Time
+
+### Monthly Profit Trend (2011–2016)
+
+<img width="250" height="206" alt="Image" src="https://github.com/user-attachments/assets/3dac7d8b-71c3-423a-a274-1e2c7d48202b" />
+
+### Profit Trend Insight
+
+Profit remained relatively consistent throughout the year, generally
+ranging between **$40K and $50K** across most months, indicating a
+stable and healthy margin base.
+
+**January** opened strongly, with profit close to the **$50K** mark
+before dipping slightly through **February and March**.
+
+A steady mid year performance was observed from **April through August**,
+with profits holding firm in the **$40K–$50K** range.
+
+**September** recorded the highest profit of the year, pushing close to
+**$60K** the peak margin period of the fiscal year.
+
+A mild dip was observed in **October and November**, before a strong
+**December** recovery closed the year near the **$60K** mark  suggesting
+a profit pattern characterized by **consistent mid-year margins, a
+September peak, and a strong year-end finish**.
+
+##  Country's Revenue
+
+### Revenue Distribution by Country (2011–2016)
+
+## 🌍 Country's Revenue
+
+### Revenue Distribution by Country (2011–2016)
+##  Country's Revenue
+
+### Revenue Distribution by Country (2011–2016)
+
+<img width="231" height="207" alt="Image" src="https://github.com/user-attachments/assets/acb6b5b8-71a1-4331-a003-bac4f824982d" />
+
+### Country Revenue Breakdown
+
+| # | Country | Total Revenue |
+|---|---------|---------------|
+| 1 | France | $289,620 |
+| 2 | Canada | $265,875 |
+| 3 | Germany | $248,400 |
+| 4 | Australia | $243,645 |
+| 5 | United Kingdom | $222,505 |
+| 6 | United States | $194,255 |
+
+> **Key Insight:** **France** leads all markets with the highest revenue,
+> followed closely by **Canada** and **Germany**. The **United States**
+> trails as the lowest-performing market despite being a core territory —
+> signaling a clear opportunity for targeted growth and strategic
+> investment in the US market.
+
+### Country Revenue Breakdown
+
+| # | Country | Total Revenue |
+|---|---------|---------------|
+| 1 | France | $289,620 |
+| 2 | Canada | $265,875 |
+| 3 | Germany | $248,400 |
+| 4 | Australia | $243,645 |
+| 5 | United Kingdom | $222,505 |
+| 6 | United States | $194,255 |
+
+> **Key Insight:** **France** leads all markets with the highest revenue,
+> followed closely by **Canada** and **Germany**. The **United States**
+> trails as the lowest-performing market despite being a core territory —
+> signaling a clear opportunity for targeted growth and strategic
+> investment in the US market.
+
+### Country Revenue Breakdown
+
+| # | Country | Total Revenue |
+|---|---------|---------------|
+| 1 | France | $289,620 |
+| 2 | Canada | $265,875 |
+| 3 | Germany | $248,400 |
+| 4 | Australia | $243,645 |
+| 5 | United Kingdom | $222,505 |
+| 6 | United States | $194,255 |
+
+France** leads all markets with the highest revenue, followed closely by **Canada** and **Germany**. The **United States**trails as the lowest-performing market despite being a core territory signaling a clear opportunity for targeted growth and strategicinvestment in the US market.
+
+##  Total Revenue by Category
+
+### Revenue Breakdown by Product Category (2011–2016)
+
+<img width="254" height="208" alt="Image" src="https://github.com/user-attachments/assets/0f5732f7-62b6-4bfe-a229-cbb356c34846" />
+
+### Category Revenue Breakdown
+
+| # | Category | Total Revenue | Revenue Share |
+|---|----------|---------------|---------------|
+| 1 | Bikes | $1,313,300 | 89.7% |
+| 2 | Clothing | $93,800 | 6.4% |
+| 3 | Accessories | $57,200 | 3.9% |
+
+Bikes** completely dominate revenue at **$1.31M**, dwarfing every other category by a significant margin. **Clothing** and **Accessories** contribute just **6.4%** and **3.9%** respectively  highlighting a heavy product concentration risk. Expanding these two categories through promotions, bundling, and wider product offerings could unlock significant untapped revenue potential.
+
+##  Cost Over Time
+
+### Monthly Cost Trend (2011–2016)
+
+<img width="254" height="207" alt="Image" src="https://github.com/user-attachments/assets/bec4fd36-62f2-4f0d-9508-be29fc1dcf94" />
+
+### Cost Trend Insight
+
+Cost levels remained moderately stable through most of the year,
+generally ranging between **$50K and $75K** across the majority of months.
+
+**January** opened with costs around the **$75K** mark before dipping
+slightly in **February**, recording one of the lower cost months of
+the fiscal year.
+
+A gradual rise was observed from **March through June**, with costs
+climbing steadily back toward the **$75K** range as sales activity
+increased mid-year.
+
+**September** recorded the highest cost of the year, spiking close to
+**$100K**  directly aligned with the revenue and profit peak observed
+in the same month.
+
+Costs eased through **October and November** before rising again sharply
+in **December**, closing the year near the **$90K** mark suggesting
+that cost movement closely mirrors revenue performance, with **high revenue
+months consistently driving higher operational costs**.
+
+## 🌐 Total Cost by Country
+
+### Cost Distribution by Country (2011–2016)
+
+<img width="228" height="196" alt="Image" src="https://github.com/user-attachments/assets/a461de87-a61d-4086-9a51-2eef01ed3131" />
+
+### Country Cost Breakdown
+
+| # | Country | Cost Share |
+|---|---------|------------|
+| 1 | France | 19.80% |
+| 2 | Canada | 18.95% |
+| 3 | Germany | 16.95% |
+| 4 | Australia | 16.72% |
+| 5 | United Kingdom | 15.00% |
+| 6 | United States | 13.16% |
+
+France** carries the highest cost share at **19.8%**,  consistent with its position as the top revenue-generating market. **United States** records the lowest cost share at **13.16%** — yet also generates the least revenue, suggesting the US market is underperforming relative to its cost efficiency. Markets like **Canada** and **Germany** show strong cost-to-revenue balance, making them the most operationally efficient territories in the portfolio.
+
 
 ---
 
