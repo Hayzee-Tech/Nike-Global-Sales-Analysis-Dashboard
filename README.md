@@ -4,7 +4,7 @@
 ## Project Overview
 This project analyzes **Nike Inc.'s global sales performance** from **2011 to 2016** across multiple international markets.
 
-The objective was to build an interactive **single-page Power BI dashboard** that provides leadership with centralized visibility into revenue, profit, product performance, sales representatives, and country-level trends.
+The objective was to build an interactive **single-page Power BI dashboard** that provides leadership with centralized visibility into revenue, profit, product performance, sales representatives, and country-level trends. 
 
 ---
 
